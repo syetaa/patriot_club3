@@ -1,0 +1,47 @@
+.textmain{
+    background-image: url(/public/back.png);
+    background-size: cover;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40vh
+}
+.text1{
+    font-size: 46px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+}
+.text2{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.text2_1{
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 140%;
+}
+.text2_2{
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    line-height: 140%;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.text2_3{
+    font-size: 46px;
+    font-weight: 800;
+    color: #fff;
+    
+}
